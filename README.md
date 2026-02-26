@@ -96,7 +96,7 @@ The generated data closely matches the real data distribution. KDE plots show st
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 The GAN successfully learned the underlying probability density function of the transformed variable without prior assumptions. The generated samples closely resemble the original data distribution.
 
 ---
